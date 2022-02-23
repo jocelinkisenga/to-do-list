@@ -1,5 +1,4 @@
-- @ This is a simple to do list done by kisenga shuka jocelin
--contact : kisengajocelin7@gmail.com
-🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩🇨🇩
+- @ This is a simple to do app made with the laravel framework. 
+It was a about testing my knowledge while learning the framework. 
 
 Lushi dev
